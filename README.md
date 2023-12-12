@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/1.png" alt="modaCLIP Logo" width="350" height="350" />
+  <img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/logo.png" alt="modaCLIP Logo" width="350" height="350" />
 </p>
 
 # Overview
