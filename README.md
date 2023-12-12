@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placekitten.com/200/300" alt="Kitten" />
+  <img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/1.png" alt="modaCLIP Logo" width="200" height="200" />
 </p>
 
 # ModaCLIP
