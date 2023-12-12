@@ -136,11 +136,11 @@ search_query 2 = "snowscape mountains peaks"
 
 #### Image+Text-to-Image Retrieval
 - source_image 1
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.jpg" alt="modaCLIP Logo" width="350" height="350" />
 - search_query 1 = "leaves"
 
 - source_image 2
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.jpg" alt="modaCLIP Logo" width="350" height="350" />
 _ search_query 1 = "rocky mountians"
 <table>
   <tr>
