@@ -100,6 +100,46 @@ search_text = "leaves"
 ModaCLIP excels in executing complex multi-modal querie seamlessly intertwining image and text information. Whether it's searching for specific visual attributes within images or finding textual descriptions of visual content ModaCLIP search engine excels in multi-modal information retrieval. This capability expands the horizons of conventional keyword-based searches offering a nuanced and comprehensive search experience.
 
 ## Results and Sample Queries
+#### Text-to-Image Retrieval
+search_query 1 = "evening colourful skies with trees and people"
+search_query 1 = "evening colourful skies with trees and people"
+<table>
+  <tr>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/txt2img-query1.png" alt="Image 1" style="width: 300px;"></td>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/txt2img-query2.png" alt="Image 2" style="width: 300px;"></td>
+  </tr>
+</table>
+
+
+#### Image-to-Image Retrieval
+source_image = "/content/drive/My Drive/unsplash-dataset/curated-data/photos/0Hr2m3V_w1Q.jpg"
+
+<table>
+  <tr>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2img-query1.png" alt="Image 1" style="width: 300px;"></td>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2img-query2.png" alt="Image 2" style="width: 300px;"></td>
+  </tr>
+</table>
+
+#### Tag+Text-to-Image Retrieval
+Query-Tags 1 = "tower", "night
+Query-Tags 2 = "" ,""
+<table>
+  <tr>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/tag2img-query1.png" alt="Image 1" style="width: 300px;"></td>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/tag2img-query2.png" alt="Image 2" style="width: 300px;"></td>
+  </tr>
+</table>
+
+#### Image+Text-to-Image Retrieval
+source_image =  "/content/drive/My Drive/unsplash-dataset/curated-data/photos/0Hr2m3V_w1Q.jpg"
+search_query 1 = "evening colourful skies with trees and people"
+<table>
+  <tr>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2txtimg-query1.png" alt="Image 1" style="width: 300px;"></td>
+    <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2txtimg-query2.png" alt="Image 2" style="width: 300px;"></td>
+  </tr>
+</table>
 
 ## Acknowledgements
 
