@@ -113,9 +113,9 @@ ModaCLIP excels in executing complex multi-modal querie seamlessly intertwining 
 
 #### Image-to-Image Retrieval
 - source_image 1
-<img src="hhttps://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample.png" alt="modaCLIP Logo" width="100" height="100" />
 - source_image 2
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample2.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample2.png" alt="modaCLIP Logo" width="100" height="100" />
 
 <table>
   <tr>
@@ -136,11 +136,11 @@ ModaCLIP excels in executing complex multi-modal querie seamlessly intertwining 
 
 #### Image+Text-to-Image Retrieval
 - source_image 1 & search_query 1 = "leaves"
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.jpg" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.jpg" alt="modaCLIP Logo" width="100" height="100" />
 
 
 - source_image 2 & search_query 2 = "rocky mountians"
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.jpg" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.jpg" alt="modaCLIP Logo" width="100" height="100" />
 
 <table>
   <tr>
