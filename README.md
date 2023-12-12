@@ -101,8 +101,8 @@ ModaCLIP excels in executing complex multi-modal querie seamlessly intertwining 
 
 ## Results and Sample Queries
 #### Text-to-Image Retrieval
-search_query 1 = "colourful skies with trees"
-search_query 2 = "snowscape mountains peaks"
+- search_query 1 = "colourful skies with trees"
+- search_query 2 = "snowscape mountains peaks"
 <table>
   <tr>
     <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/txt2img-query1.png" alt="Image 1" style="width: 300px;"></td>
@@ -113,9 +113,9 @@ search_query 2 = "snowscape mountains peaks"
 
 #### Image-to-Image Retrieval
 - source_image 1
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="hhttps://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample.png" alt="modaCLIP Logo" width="350" height="350" />
 - source_image 2
-<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/.png" alt="modaCLIP Logo" width="350" height="350" />
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2imgsample2.png" alt="modaCLIP Logo" width="350" height="350" />
 
 <table>
   <tr>
@@ -135,13 +135,13 @@ search_query 2 = "snowscape mountains peaks"
 </table>
 
 #### Image+Text-to-Image Retrieval
-- source_image 1
+- source_image 1 & search_query 1 = "leaves"
 <img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.jpg" alt="modaCLIP Logo" width="350" height="350" />
-- search_query 1 = "leaves"
 
-- source_image 2
+
+- source_image 2 & search_query 2 = "rocky mountians"
 <img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.jpg" alt="modaCLIP Logo" width="350" height="350" />
-_ search_query 1 = "rocky mountians"
+
 <table>
   <tr>
     <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2txtimg-query1.png" alt="Image 1" style="width: 300px;"></td>
