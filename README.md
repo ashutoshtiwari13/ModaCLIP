@@ -101,8 +101,8 @@ ModaCLIP excels in executing complex multi-modal querie seamlessly intertwining 
 
 ## Results and Sample Queries
 #### Text-to-Image Retrieval
-search_query 1 = "evening colourful skies with trees and people"
-search_query 1 = "evening colourful skies with trees and people"
+search_query 1 = "colourful skies with trees"
+search_query 2 = "snowscape mountains peaks"
 <table>
   <tr>
     <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/txt2img-query1.png" alt="Image 1" style="width: 300px;"></td>
@@ -112,7 +112,10 @@ search_query 1 = "evening colourful skies with trees and people"
 
 
 #### Image-to-Image Retrieval
-source_image = "/content/drive/My Drive/unsplash-dataset/curated-data/photos/0Hr2m3V_w1Q.jpg"
+- source_image 1
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/.png" alt="modaCLIP Logo" width="350" height="350" />
+- source_image 2
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/.png" alt="modaCLIP Logo" width="350" height="350" />
 
 <table>
   <tr>
@@ -122,8 +125,8 @@ source_image = "/content/drive/My Drive/unsplash-dataset/curated-data/photos/0Hr
 </table>
 
 #### Tag+Text-to-Image Retrieval
-Query-Tags 1 = "tower", "night
-Query-Tags 2 = "" ,""
+- Query-Tags 1 = "trees"
+- Query-Tags 2 = "tower", "night
 <table>
   <tr>
     <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/tag2img-query1.png" alt="Image 1" style="width: 300px;"></td>
@@ -132,8 +135,13 @@ Query-Tags 2 = "" ,""
 </table>
 
 #### Image+Text-to-Image Retrieval
-source_image =  "/content/drive/My Drive/unsplash-dataset/curated-data/photos/0Hr2m3V_w1Q.jpg"
-search_query 1 = "evening colourful skies with trees and people"
+- source_image 1
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/Agwkkxw0JY.png" alt="modaCLIP Logo" width="350" height="350" />
+- search_query 1 = "leaves"
+
+- source_image 2
+<img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/curated-data/photos/3FAzLYaj_4.png" alt="modaCLIP Logo" width="350" height="350" />
+_ search_query 1 = "rocky mountians"
 <table>
   <tr>
     <td><img src="https://github.com/ashutoshtiwari13/ModaCLIP/blob/main/docs/img2txtimg-query1.png" alt="Image 1" style="width: 300px;"></td>
